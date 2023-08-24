@@ -1,0 +1,10 @@
+1. Write a C# program to find the sum of all elements in an integer array using a loop.
+2. Create a C# program that calculates the average of values in a floating-point array using a loop.
+3. Develop a C# program that finds the largest element in an integer array using a loop and if-else statements.
+4. Write a C# program that counts the number of even and odd elements in an integer array using a loop and if-else statements.
+5. Implement a C# program that reverses the elements of an integer array using a loop.
+6. Create a C# program that multiplies each element in an integer array by a specified factor using a loop.
+7. Write a C# program that searches for a specific value in an integer array using a loop and returns its index if found.
+8. Develop a C# program that finds the second smallest element in an integer array using loops and sorting techniques.
+9. Create a C# program that removes all duplicates from an integer array using loops and additional data structures.
+10. Write a C# program that finds the common elements between two integer arraysÿusingÿloops.
